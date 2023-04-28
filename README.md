@@ -1,2 +1,2 @@
 # djangox
-401 Python Lab Class 29" Crating Django X Template  
+401 Python Lab: Class 29 Crating Django X Template  
